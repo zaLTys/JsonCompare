@@ -703,7 +703,7 @@
                         ""productCategory"": ""Eclairage"",
                         ""translation"": ""1201_Trail_Eclairage_8801_4"",
                         ""question"": {
-                            ""question"": ""Q6Next_time_you_need_one_of_the_following_products_for_your_practice_[SPORT_XXX],_do_you_think_youz_will_buy_a_product_[DKT_YYY_BRAND]"",
+                            ""question"": ""Q6Next_time_you_need_one_of_the_following_products_for_your_practice_[SPORT_XXX],_do_you_think_you_will_buy_a_product_[DKT_YYY_BRAND]"",
                             ""textAnswer"": null,
                             ""answers"": {
                                 ""Q6_Certainlyyes"": null
